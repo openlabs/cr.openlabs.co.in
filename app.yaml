@@ -1,5 +1,4 @@
-application: codereview-hr
-version: use-version-arg
+application: openlabs-rietveld
 runtime: python27
 api_version: 1
 threadsafe: false
