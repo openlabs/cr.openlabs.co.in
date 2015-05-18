@@ -41,6 +41,7 @@ handlers:
 
 - url: /.*
   script: main.application
+  login: required
 
 admin_console:
   pages:
